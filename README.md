@@ -7,3 +7,7 @@ Classification by linear_model, GaussianNaiveBayes, SVM, NearestCentroid modules
 Pearson Correlation and dimensionality reduction to reduce features 
 
 5-fold cross validation to check stability of the model
+
+Data files are available on below link :
+
+https://drive.google.com/drive/u/0/folders/1kIhsH1jAwnwN-Vt2EeSOmRenLAdxoOlY
