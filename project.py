@@ -1,6 +1,3 @@
-#Team members :
-#1. Charmi Patel - cp423
-#2. Prithwish Ganuly - pg422
 
 import sys
 import array
